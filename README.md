@@ -5,7 +5,6 @@
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![PySpark](https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg)
 ![Hive](https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg)
-![Colab]([https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg))
 
 A scalable analysis project exploring real-world leaked passwords using **PySpark**, **Apache Hive**, and **Pandas**. It performs entropy scoring, pattern detection, password-strength classification, visualization, and optional ML predictions.  
 All workflows are executed through **notebooks** (Colab or Jupyter) — no CLI execution required.
