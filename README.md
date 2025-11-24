@@ -92,21 +92,21 @@ This project is fully notebook-driven:
 
 evaluate_password("password123") gives,
 
+```
 ('Vulnerable',
 ['Length is moderate (8–11 chars) — recommended 12+',
 'Low entropy (3.28 bits)',
 'Contains only lowercase letters',
 'Contains sequential pattern (e.g., abc or 123)',
 'Contains keyboard pattern (qwerty, asdf, 12345, etc.)'])
+```
 
 2.Password_leak_analysis_project using pandas
-
+```
 Enter a password to evaluate: hello
 
 Password: hello
 Status: Vulnerable
-
----
 
 ⚠ Vulnerabilities found:
 
@@ -114,7 +114,7 @@ Status: Vulnerable
 - Very low entropy (1.92 bits)
 - Contains only lowercase letters
 - Appears in leaked password dataset (rank #60)
-
+```
 ---
 
 ## 🚀 Why PySpark + Hive?
